@@ -1,3 +1,7 @@
+![Banner: a glowing chrome and walnut jukebox at the centre of a dark diner alcove, shelves of vinyl records ranked behind glass on both sides and a single magenta neon tube running above the arch](banner.png)
+
+<p align="center"><img src="logo.png" alt="youtube-music logo: a chrome and walnut jukebox photographed straight on in a dark alcove, its arched glass glowing cream with magenta light strips along the arch and a black record visible inside" width="200"></p>
+
 <div align="center">
 
 # YouTube Music
